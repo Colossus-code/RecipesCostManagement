@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "huevos",
+    "precio": 0.2
+  },
+  {
+    "nombre": "aceite",
+    "precio": 2.3
+  },
+  {
+    "nombre": "sal",
+    "precio": 0.8
+  },
+  {
+    "nombre": "cebolla",
+    "precio": 1.89
+  }
+]

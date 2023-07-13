@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "tortilla",
+    "ingredientes": {
+      "huevos": 2,
+      "aceite": 0.15,
+      "sal": 0.03,
+      "cebolla": 0.5
+    },    
+    "horasCocinado": 0.17
+  }
+]
